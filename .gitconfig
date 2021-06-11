@@ -12,5 +12,3 @@
 	gpgSign = true
 [init]
 	defaultBranch = main
-[push]
-	gpgSign = false
