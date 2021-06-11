@@ -1,7 +1,7 @@
 [user]
-	email = arc986@arc986.org
+	email = arc986@arc986@.org
 	name = arc986
-	signingkey = 4FD70991B684F4B4
+	signingkey = 7C476BBEF6246506
 [core]
 	editor = nvim
 [commit]
